@@ -34,7 +34,7 @@ Main programming environment used for data analysis.
 - Which opening was used most often in games won by black pieces? And in games won by white?
 - What percentage of games are won by the higher-rated player? Does it depend on the color of the pieces?
 
-##Highlights
+## Highlights
 - Data import from a CSV file and checking the first few records to understand the dataset's structure
 - Data cleaning (stripping text, converting to lowercase, replacing values, checking for duplicates and NaNs)
 - Exploratory data analysis (answering analytical questions)
