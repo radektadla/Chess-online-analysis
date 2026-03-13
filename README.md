@@ -11,4 +11,10 @@ The code consists of 3 main parts:
    - What percentage of games are won by the higher-rated player? Does it depend on the color of the pieces?
 The project also includes simple visualizations to support the analysis and better highlight selected data.
 
+Tools used:
+- Python (Jupyter Notebook)
+   • Pandas
+   • NumPy
+   • Matplotlib
+
 Thank you for reading and checking out my project!
