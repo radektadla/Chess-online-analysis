@@ -1,8 +1,8 @@
 # Chess-online-analysis
-## Data cleaning and analysis of online chess games from Lichess containing 20,058 records.
+## Data cleaning and analysis of online chess games from Lichess using Python.
 
 ## 📝 Short Description
-This project focuses on data cleaning and exploratory analysis of online chess games from Lichess using Python.
+This project focuses on data cleaning and exploratory analysis of online chess games from Lichess containing 20,058 records.
 
 The goal of the analysis was to explore patterns in chess gameplay and answer several analytical questions related to:
 - Game outcomes based on pieces color
@@ -39,5 +39,7 @@ Main programming environment used for data analysis.
 - Data cleaning (stripping text, converting to lowercase, replacing values, checking for duplicates and NaNs)
 - Exploratory data analysis (answering analytical questions)
 - Basic visualizations to support certain findings
+
+--------------
 
 Thank you for reading and checking out my project!
